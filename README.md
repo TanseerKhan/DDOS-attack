@@ -1,9 +1,4 @@
-       /////    /////    /////////////
-      CCCCC/   CCCCC/   | CC-attack |/
-     CC/      CC/       |-----------|/ 
-     CC/      CC/       |  Layer 7  |/ 
-     CC/////  CC/////   | ddos tool |/ 
-      CCCCC/   CCCCC/   |___________|/
+
 
 # DDOS-Attack
  A script for using socks4/5 or http proxies to attack http(s) server.
